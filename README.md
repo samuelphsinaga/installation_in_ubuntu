@@ -377,5 +377,5 @@ module.exports = {
 migrate:
 
 `sequelize db:migrate`
-# week1
-# week1
+# catatan pribadi aja copas dari https://github.com/kenduigraha/code_note biar gak lupa thanks ^_^
+
