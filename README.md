@@ -1,5 +1,5 @@
 # code_note
-This repository belongs to my personal guidance note to download & install "things" that i needed in Ubuntu 16.04
+My repository to help me installing some important tools to write some code with variant programing language, based on Linux 16.04
 
 # npm & node.js (Ubuntu)
 Source :
@@ -379,8 +379,23 @@ migrate:
 `sequelize db:migrate`
 
 
+# Nodemon
+`npm install -g nodemon`
 
+# Angular
+Documentation : [https://docs.angularjs.org/api](https://docs.angularjs.org/api)
 
+### npm
+`npm install angular`
 
- `catatan pribadi aja sumberdari https://github.com/kenduigraha/code_note biar gak lupa ^_^`
+### Then add a <script> to your index.html:
+
+`<script src="/node_modules/angular/angular.js"></script>`
+`Or require('angular') from your code.`
+
+### bower
+`bower install angular`
+
+### Then add a <script> to your index.html:
+`<script src="/bower_components/angular/angular.js"></script>`
 
