@@ -380,6 +380,8 @@ migrate:
 
 # Nodemon
 Source : [https://nodemon.io/](https://nodemon.io/)
+
+### npm
 `npm install -g nodemon`
 
 # Angular
