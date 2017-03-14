@@ -379,10 +379,11 @@ migrate:
 
 
 # Nodemon
+Source : [https://nodemon.io/](https://nodemon.io/)
 `npm install -g nodemon`
 
 # Angular
-Documentation : [https://docs.angularjs.org/api](https://docs.angularjs.org/api)
+Source : [https://docs.angularjs.org/api](https://docs.angularjs.org/api)
 
 ### npm
 `npm install angular`
