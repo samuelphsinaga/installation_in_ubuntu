@@ -1,4 +1,4 @@
-# My repository to help me installing some important tools to write some code with variant programing language, based on Linux 16.04
+# My repository to help me installing some important tools to write some code with any variant programing language, based on Linux 16.04
 
 # npm & node.js (Ubuntu)
 Source :
