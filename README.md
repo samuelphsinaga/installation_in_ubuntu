@@ -1,5 +1,4 @@
-# code_note
-My repository to help me installing some important tools to write some code with variant programing language, based on Linux 16.04
+# My repository to help me installing some important tools to write some code with variant programing language, based on Linux 16.04
 
 # npm & node.js (Ubuntu)
 Source :
@@ -153,7 +152,7 @@ Source :
 Install :
 `sudo apt install postgresql`
 
-## PgAdmin 4.1.1
+# PgAdmin 4.1.1
 
 ```
 sudo apt-get install virtualenv python-pip libpq-dev python-dev
@@ -188,11 +187,11 @@ setting password :
 http://stackoverflow.com/questions/24917832/how-connect-postgres-to-localhost-server-using-pgadmin-on-ubuntu
 ```
 
-## pg
+# pg
 
 `sudo npm i -g pg`
 
-## ORM : Sequelize
+# ORM : Sequelize
 `sudo npm i -g sequelize-cli`
 
 `sudo npm i -g sequelize`
